@@ -1,0 +1,36 @@
+#
+# LunchMoney Daemon Card Definition file
+# (c) 2002 Rink Springer, GPL
+#
+# Format:
+# Card Type | Category | Damage Done | Number of Cards | Name
+#
+0|0|1|4|Jab
+1|0|2|4|Hook
+2|0|2|4|Pimp Slap
+3|0|2|4|Elbow
+4|0|4|4|Kick (4)
+5|0|3|4|Spinning Backfist
+6|0|3|4|Headbutt
+7|0|3|4|Uppercut
+8|0|3|4|Roundhouse
+9|0|7|1|Hail Mary
+10|1|3|1|Knife
+11|1|3|1|Hammer
+12|1|3|1|Pipe
+13|1|3|1|Chain
+14|2|0|8|Dodge
+15|2|0|10|Block
+16|2|0|4|Disarm
+17|2|0|4|Freedom
+18|2|0|8|First Aid
+19|2|0|4|Humiliation
+20|2|0|8|Grab
+21|2|3|4|Powerplay
+22|2|0|1|Headlock
+23|2|1|4|Stomp
+24|2|1|4|Poke in the Eye
+25|2|6|1|Uppercut2
+26|2|6|4|Big Combo
+27|2|0|1|Choke
+28|0|2|4|Kick (2)
